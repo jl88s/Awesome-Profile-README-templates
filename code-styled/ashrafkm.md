@@ -15,7 +15,7 @@ const ashraf = {
     askMeAbout: ["app dev", "web dev", "tech"],
     technologies:{
         backEnd: ["nodejs", "express", "python"],
-        fronEnd: ["angular"],
+        frontEnd: ["angular"],
         mobileApp: ["ionic","angular"],
         database: ["mongo","mySql"],
         serverless: ["mongo-realm","aws-lambda"],
